@@ -1,6 +1,8 @@
 # 555-synth
 
 
+Single-note synthesizer using NE555 and Digital Fabrication tools
+
 Conponents:
 - NE555
 - 10nF Capacitor (C1)
