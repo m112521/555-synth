@@ -4,17 +4,18 @@
 Single-note synthesizer using NE555 and Digital Fabrication tools
 
 Conponents:
-- NE555
+- NE555 (U1)
 - 10nF Capacitor (C1)
 - 2x 100nF Capactorot (C2)
-- 10k Resistor (R1)
-- 1k Resistor (R2)
+- 1k Resistor (R1)
+- 10k Resistor (R2)
+- 50-80 Ohm Resistor (R3)
 - 10k Potentiometer (POT1)
-- Slider Switch
-- Piezo Buzzer
-- LED
-- 18650
-- Push Button
+- Slide Switch (SW1)
+- Piezo Buzzer (BUZZER1)
+- LED (LED1)
+- Push Button (B1)
+- 18650 3.7-4.2V
 
 <img width="1920" height="1080" alt="ViewCapture20261015_185525" src="https://github.com/user-attachments/assets/7f3cccda-810a-4f49-ada5-0eeb3b3dd764" />
 
