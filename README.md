@@ -5,19 +5,19 @@ Single-note synthesizer using NE555 and Digital Fabrication tools
 
 Conponents:
 
-| Компонент | Позиционное обозначение (ID) | Номинал / Характеристики |
+| Component | ID | Description |
 | :--- | :--- | :--- |
-| NE555 | U1 | Таймер |
+| NE555 | U1 | Timer IC |
 | Capacitor | C1 | 10 nF |
 | Capacitor | C2 | 2x 100 nF |
 | Resistor | R1 | 1 kOhm |
 | Resistor | R2 | 10 kOhm |
 | Resistor | R3 | 50-80 Ohm |
 | Potentiometer | POT1 | 10 kOhm |
-| Slide Switch | SW1 | Выключатель |
-| Piezo Buzzer | BUZZER1 | Пьезоизлучатель |
-| LED | LED1 | Светодиод |
-| Push Button | B1 | Кнопка |
+| Slide Switch | SW1 | Slide switch |
+| Piezo Buzzer | BUZZER1 | Piezo basser |
+| LED | LED1 | LED |
+| Push Button | B1 | Button |
 | Battery | — | 18650 (3.7-4.2V) |
 
 <img width="1920" height="1080" alt="ViewCapture20261015_185525" src="https://github.com/user-attachments/assets/7f3cccda-810a-4f49-ada5-0eeb3b3dd764" />
