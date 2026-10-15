@@ -14,4 +14,4 @@ Conponents:
 - 18650
 - Push Button
 
-<img width="1920" height="1080" alt="ViewCapture20261015_185232" src="https://github.com/user-attachments/assets/a932ed81-0b42-4785-9697-8d75cc2502f9" />
+<img width="1920" height="1080" alt="ViewCapture20261015_185525" src="https://github.com/user-attachments/assets/5a47bb68-5204-4d91-8c32-455f52c1b8c4" />
