@@ -35,3 +35,15 @@ Breadboard:
 <img width="1376" height="682" alt="image (4)" src="https://github.com/user-attachments/assets/c4ce57d9-cbb6-4c49-b03b-4397089cb5b9" />
 
 
+PCB:
+
+<img width="3976" height="1056" alt="20261019_165944" src="https://github.com/user-attachments/assets/a77f5534-77d5-467c-9fe5-4dc316e16caa" />
+
+<img width="4080" height="1073" alt="20261019_165954" src="https://github.com/user-attachments/assets/aac128d8-6313-4219-96e1-021dc19c3e3f" />
+
+
+Synth:
+
+<img width="2400" height="1268" alt="20261019_201603-Photoroom (1)" src="https://github.com/user-attachments/assets/03913fab-84ed-44ea-979a-3237ffa3ddf3" />
+
+
